@@ -61,8 +61,6 @@ See `pictures/Components.jpg` for the actual parts used in the build.
 | 12 V DC adapter | Primary power input |
 | Breadboard, jumper wires, 4.7 kΩ resistor | Prototyping and DS18B20 pull-up |
 
-> Note: an L298N motor driver appears in the early draft proposal but was **replaced with a relay module** in the final build. Cooling demand is binary (fan on / fan off), so PWM speed control was not required.
-
 ---
 
 ## How It Works
@@ -146,10 +144,4 @@ Open the sketch in the Arduino IDE, select the **ESP32 Dev Module** board, the c
 
 ---
 
-## Status
 
-- [x] Hardware assembly
-- [x] Firmware (auto + manual mode, LCD, LEDs, buzzer, Blynk integration)
-- [x] Blynk mobile and web dashboards
-- [ ] Final report
-- [ ] Demonstration video
