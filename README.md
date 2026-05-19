@@ -43,6 +43,12 @@ The prototype is powered through a solar charge controller and an 18650 Li-ion b
 
 ---
 
+## Prototype Setup
+
+![Assembled aquarium cooling system](pictures/Angle%20View.jpg)
+
+---
+
 ## Hardware Components
 
 See `pictures/Components.jpg` for the actual parts used in the build.
