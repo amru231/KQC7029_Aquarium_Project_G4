@@ -1,0 +1,24 @@
+# Arduino / PlatformIO build artefacts
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Windows zone metadata
+*:Zone.Identifier
+
+# Office lock files
+~$*.docx
+~$*.doc
